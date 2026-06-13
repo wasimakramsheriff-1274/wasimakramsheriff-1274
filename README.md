@@ -7,8 +7,8 @@ I am a Full Stack Web Developer and AI enthusiast. I love building things for th
 * 📫 How to reach me: **wasimakramsheriff@gmail.com**
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-sheriff-a56648308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrhollywoodtime?si=U06hvmy4Y92hBcA5)
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,4 +20,4 @@ I am a Full Stack Web Developer and AI enthusiast. I love building things for th
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasimakramsheriff-1274&theme=radical&show_icons=true)](https://github.com/wasimakramsheriff-1274)
