@@ -1,4 +1,4 @@
-# Hi 👋, I'm Wasim Akram Sheriff
+**# Hi 👋, I'm Wasim Akram Sheriff
 
 I am a Full Stack Web Developer and AI enthusiast. I love building things for the web and experimenting with different technologies. 
 
@@ -21,3 +21,4 @@ I am a Full Stack Web Developer and AI enthusiast. I love building things for th
 
 ### 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasimakramsheriff-1274&theme=radical&show_icons=true)](https://github.com/wasimakramsheriff-1274)
+**
