@@ -27,9 +27,11 @@ I am a software engineer and AI developer based in Chennai, specializing in mult
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/wasimakramsheriff-1274/Trip-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=Trip-Manager&theme=radical" alt="Trip Manager" />
+ <p align="center">
+  <a href="https://github.com/wasimakramsheriff-1274/wasim-akram-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=wasim-akram-portfolio &theme=radical" alt="Personal Portfolio" />
   </a>
+</p>
 </p>
 
 <br>
@@ -76,7 +78,7 @@ I am a software engineer and AI developer based in Chennai, specializing in mult
   <a href="mailto:wasimakramsheriff@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/91[9250544871]" target="_blank">
+  <a href="https://wa.me/91 9150544871" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
