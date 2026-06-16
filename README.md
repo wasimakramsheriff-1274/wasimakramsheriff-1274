@@ -27,7 +27,6 @@ I am a software engineer and AI developer based in Chennai, specializing in mult
   </a>
 </p>
 <p align="center">
- <p align="center">
   <a href="https://github.com/wasimakramsheriff-1274/wasim-akram-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=wasim-akram-portfolio &theme=radical" alt="Personal Portfolio" />
   </a>
