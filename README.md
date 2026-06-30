@@ -7,7 +7,7 @@ I am a software engineer and AI developer based in Chennai, specializing in mult
 * 📫 **How to reach me:** **wasimakramsheriff@gmail.com**
 
 <p align="center">
-  <a href="https://wasim-akram-sheriff1012.netlify.app/" target="_blank">
+  <a href="https://wasim-akram-portfolio-zeta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_Live_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1DI-nKymOrVcc3pHaJwChZ5X2KD0o-T98/view?usp=drivesdk" target="_blank">
