@@ -28,22 +28,21 @@
 ### 🚀 Featured Engineering Projects
 
 <p align="center">
-  <!-- Portfolio Card -->
-  <a href="https://github.com/wasimakramsheriff-1274/YOUR-EXACT-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=YOUR-EXACT-REPO-NAME&theme=radical" alt="Portfolio Repo" />
+  <!-- Portfolio Card (FIXED NAME) -->
+  <a href="https://github.com/wasimakramsheriff-1274/web-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=web-portfolio&theme=radical" alt="Portfolio Repo" />
   </a>
   
   <!-- AI Attendance Card -->
-  <a href="https://github.com/wasimakramsheriff-1274/YOUR-EXACT-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=YOUR-EXACT-REPO-NAME&theme=radical" alt="AI Face Attendance" />
+  <a href="https://github.com/wasimakramsheriff-1274/AI-Face-Attendance-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=AI-Face-Attendance-System&theme=radical" alt="AI Face Attendance" />
   </a>
   
   <!-- Traffic Signal Card -->
-  <a href="https://github.com/wasimakramsheriff-1274/YOUR-EXACT-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=YOUR-EXACT-REPO-NAME&theme=radical" alt="Traffic Signal Controller" />
+  <a href="https://github.com/wasimakramsheriff-1274/AI-Powered-Traffic-Signal-Controller-YOLOv8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=AI-Powered-Traffic-Signal-Controller-YOLOv8&theme=radical" alt="Traffic Signal Controller" />
   </a>
 </p>
-
 <br>
 
 ### 💻 Core Tech Stack
