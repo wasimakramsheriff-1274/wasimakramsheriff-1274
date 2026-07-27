@@ -27,22 +27,33 @@
 
 ### 🚀 Featured Engineering Projects
 
-<p align="center">
-  <!-- Portfolio Card (FIXED NAME) -->
-  <a href="https://github.com/wasimakramsheriff-1274/web-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=web-portfolio&theme=radical" alt="Portfolio Repo" />
-  </a>
-  
-  <!-- AI Attendance Card -->
-  <a href="https://github.com/wasimakramsheriff-1274/AI-Face-Attendance-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=AI-Face-Attendance-System&theme=radical" alt="AI Face Attendance" />
-  </a>
-  
-  <!-- Traffic Signal Card -->
-  <a href="https://github.com/wasimakramsheriff-1274/AI-Powered-Traffic-Signal-Controller-YOLOv8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasimakramsheriff-1274&repo=AI-Powered-Traffic-Signal-Controller-YOLOv8&theme=radical" alt="Traffic Signal Controller" />
-  </a>
-</p>
+<br>
+
+**1. 🌐 [Web Portfolio & DevOps Pipeline](https://github.com/wasimakramsheriff-1274/web-portfolio)**
+> A high-performance, responsive portfolio featuring a localized container deployment using Docker and a resource-constrained Kubernetes (Minikube) cluster.
+> <br>
+> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+
+<br>
+
+**2. 📸 [AI Face Attendance System](https://github.com/wasimakramsheriff-1274/AI-Face-Attendance-System)**
+> An automated real-time vision system utilizing Deep Learning to securely log timestamped entries and eliminate proxy attendance.
+> <br>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+
+<br>
+
+**3. 🚦 [AI Smart Traffic Control System](https://github.com/wasimakramsheriff-1274/AI-Powered-Traffic-Signal-Controller-YOLOv8)**
+> A dynamic urban mobility solution using YOLO object detection to calculate traffic density and optimize signal timings dynamically.
+> <br>
+> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8" /> <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=flat-square&logo=cachet&logoColor=white" alt="Computer Vision" />
+
+<br>
+
+**4. ✈️ [Trip Manager Dashboard](https://github.com/wasimakramsheriff-1274/web-portfolio)**
+> A robust travel itinerary and expense tracking application focused on state management, intuitive UI, and complex data flows.
+> <br>
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 <br>
 
 ### 💻 Core Tech Stack
